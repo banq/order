@@ -15,9 +15,9 @@ import java.util.Collection;
 @Table("order_table")
 public class Order {
 
-	public Collection<OrderItem> items;
-	public Address m_Address;
-	public OrderStatus m_OrderStatus;
+	private Collection<OrderItem> items;
+	private Address m_Address;
+	private OrderStatus m_OrderStatus;
 	@Id
 	private String id;
 
@@ -65,5 +65,31 @@ public class Order {
 
 	public void setId(String id) {
 		this.id = id;
+	}
+
+	private Order(Address address, Collection<OrderItem> items) {
+		this.m_Address = address;
+		this.items = items;
+		this.m_OrderStatus = new Placed();
+	}
+
+	public static OrderVOBuilder builder() {
+		return new OrderVOBuilder();
+	}
+
+	public static class OrderVOBuilder{
+		private Address address;
+		private Collection<OrderItem> items;
+		public OrderVOBuilder withAddress(Address address) {
+		    this.address = address;
+			return this;
+		}
+		public OrderVOBuilder withItems(Collection<OrderItem> items) {
+            this.items = items;
+			return this;
+		}
+		public Order build() {
+			return new Order(address, items);
+		}
 	}
 }
