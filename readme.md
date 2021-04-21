@@ -11,3 +11,5 @@
 提取码: hxgt
 
 DDD 聚合设计在线视频：[https://www.bilibili.com/video/BV1Yo4y1f7rz/](https://www.bilibili.com/video/BV1Yo4y1f7rz/)
+
+[torrent file](./DDDSpringBoot.torrent)
