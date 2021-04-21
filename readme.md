@@ -9,4 +9,4 @@
 1. [视频种子文件 torrent file](./DDDSpringBoot.torrent)
 2. 百度云视频下载: https://pan.baidu.com/s/1lSrqo98VOYhNZX5TUzwWFg 提取码: hxgt
 
-DDD 聚合设计在线视频：[https://www.bilibili.com/video/BV1Yo4y1f7rz/](https://www.bilibili.com/video/BV1Yo4y1f7rz/)
+第一节 DDD 聚合设计在线视频（对应本 Github 源码）：[https://www.bilibili.com/video/BV1Yo4y1f7rz/](https://www.bilibili.com/video/BV1Yo4y1f7rz/)
