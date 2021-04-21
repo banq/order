@@ -6,10 +6,7 @@
 
 本案例的讲解视频 DDD+SpringBoot/SpringCloud 微服务免费下载：
 
-链接: https://pan.baidu.com/s/1lSrqo98VOYhNZX5TUzwWFg
-
-提取码: hxgt
+1. [视频种子文件 torrent file](./DDDSpringBoot.torrent)
+2. 百度云视频下载: https://pan.baidu.com/s/1lSrqo98VOYhNZX5TUzwWFg 提取码: hxgt
 
 DDD 聚合设计在线视频：[https://www.bilibili.com/video/BV1Yo4y1f7rz/](https://www.bilibili.com/video/BV1Yo4y1f7rz/)
-
-[torrent file 种子文件](./DDDSpringBoot.torrent)
