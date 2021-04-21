@@ -10,3 +10,5 @@
 2. 百度云视频下载: https://pan.baidu.com/s/1lSrqo98VOYhNZX5TUzwWFg 提取码: hxgt
 
 第一节 DDD 聚合设计在线视频（对应本 Github 源码）：[https://www.bilibili.com/video/BV1Yo4y1f7rz/](https://www.bilibili.com/video/BV1Yo4y1f7rz/)
+
+如 Github 下载慢，使用国内镜像：[https://gitee.com/banqjdon/order](https://gitee.com/banqjdon/order)
