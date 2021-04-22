@@ -12,3 +12,19 @@
 第一节 DDD 聚合设计在线视频（对应本 Github 源码）：[https://www.bilibili.com/video/BV1Yo4y1f7rz/](https://www.bilibili.com/video/BV1Yo4y1f7rz/)
 
 如 Github 下载慢，使用国内镜像：[https://gitee.com/banqjdon/order](https://gitee.com/banqjdon/order)
+
+腾讯视频：
+
+[1_DDD 聚合设计](https://v.qq.com/x/page/w3241mexsht.html)
+
+[2\_订单聚合 Spring-data-jdbc 实现](https://v.qq.com/x/page/q3241wujy87.html)
+
+[3\_订单状态模式实现业务规则](https://v.qq.com/x/page/e32410bzkvp.html)
+
+[4_springcloud 注册服务器](https://v.qq.com/x/page/h324114oc72.html)
+
+[5_Spring 微服务调用](https://v.qq.com/x/page/q3241q5qn6d.html)
+
+[6_Kafka 异步调用](https://v.qq.com/x/page/a3241716m9u.html)
+
+[7_docker\_工作流](https://v.qq.com/x/page/w3241m2sr22.html)
